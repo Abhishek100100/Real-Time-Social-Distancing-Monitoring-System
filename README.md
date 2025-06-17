@@ -1,4 +1,4 @@
-# Social Distance Breach Monitoring System
+# Real-Time Social Distancing Monitoring System
 
 Hey there! This is my final year engineering project (2021) where I built a computer vision system that can detect when people aren't following social distancing rules. It works by analyzing video feeds and measuring distances between people.
 
